@@ -7,7 +7,7 @@ A simple, responsive image gallery using CSS Grid with `grid-auto-flow: dense;` 
 - Easy to customize
 
 ## Demo
-![Demo](assets/demo.gif
+![Demo](assets/demo.gif)
 
 ## Installation
 
