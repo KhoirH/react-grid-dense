@@ -2,3 +2,5 @@ node_modules
 tsconfig.json
 tsconfig.publish.json
 .gitignore
+
+/src/**
