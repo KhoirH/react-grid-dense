@@ -1,6 +1,6 @@
 {
   "name": "grid-dense",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "module": "lib/index.js",
   "main": "src/index.tsx",
