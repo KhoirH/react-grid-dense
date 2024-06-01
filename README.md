@@ -21,7 +21,7 @@ npm i grid-dense
   const images = (maxNum = 100) =>  {
     const templateImage = [
       {
-        src: "https://img.freepik.com/free-photo/people-making-hands-heart-shape-silhouette-sunset_53876-15987.jpg",
+        src: "",
       },
     ];
     const arr = [];
